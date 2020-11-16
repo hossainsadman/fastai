@@ -1,0 +1,2 @@
+# fast.ai - Practical Deep Learning for Coders
+My Jupyter Notebooks for working through the lessons in [fast.ai](https://www.fast.ai/)'s [Practical Deep Learning for Coders](https://course.fast.ai/) course.
